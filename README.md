@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Hemant Chauhan 👋
 
-<!--
-**Hemant107/Hemant107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
 
-Here are some ideas to get you started:
+I have a strong interest in the field of Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I aim to build a career as a Data Analyst.
+
+I enjoy solving problems, thinking creatively, and working as part of a team.
+
+I believe in learning through hands-on experience and real-world challenges.
+
+I have worked on a few projects and internships, though I prefer not to list them publicly.
+
+My personality blends professionalism with a friendly, open-minded attitude
