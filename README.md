@@ -1,18 +1,22 @@
 ## Hi, I'm Hemant Chauhan 👋
 
-Computer Science Student
 
-I have a strong interest in the field of Data Analytics.
+💻 I work on projects related to:
+- Data Analysis in Excel & Python (including store sales & performance analysis)
+- Full-stack development using Java, Python, Django, and MySQL
+- Web-based applications like Music Players, eBook Systems, and Quick Cart Checkouts
 
-I aim to build a career as a Data Analyst.
 
-I enjoy solving problems, thinking creatively, and working as part of a team.
+🚀 Skills:
+- Programming: Java, Python, C++, C
+- Data Tools: Excel (Pivot Tables, Charts, Dashboards), Power BI
+- Web: HTML, CSS, JS, Django
+- DBMS: MySQL
 
-I believe in learning through hands-on experience and real-world challenges.
+📌 I enjoy solving problems, automating workflows, and making user-friendly applications.
 
-I have worked on a few projects and internships, though I prefer not to list them publicly.
+📫 Let’s connect: https://www.linkedin.com/in/hemant-chauhan-220123333/
 
-My personality blends professionalism with a friendly, open-minded attitude
 
 
 
